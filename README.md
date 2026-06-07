@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadrassel" alt="muhammadrassel" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning,AI**
+- 🌱 I’m currently learning **Machine learning&AI**
 
 - 💬 Ask me about **Machine learning**
 
